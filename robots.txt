@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raonhaze127-glitch.github.io/naver-blog-archive/sitemap.xml
